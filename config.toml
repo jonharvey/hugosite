@@ -1,6 +1,6 @@
 baseURL = "http://jon-harvey.com/"
 languageCode = "en-us"
-
+theme="terminal"
 paginate = 5
 
 [params]
